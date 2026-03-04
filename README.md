@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**ak4eska/ak4eska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://discord.com/users/1321815455698259968">
+    <img src="https://api.lanyard.rest/v1/users/1321815455698259968"/>
+  </a>
+</p>
+<hr>
+<p><samp>Hi there! I'm <b>Adven/Kali</b>.</samp></p>
+<p><samp>- 🌱 Loves Lua, Javascript, Sunset && Music.</samp></p>
+<p><samp>- 🔭 Learning about, Web Development and Reverse engineering</samp></p>
+<p><samp>- 📒 Learning && Living.</samp></p>
+<p><samp>- 📫 -.</samp></p>
+<hr>
+<p>
+  <a href="https://instagram.com/daily_xcz">
+    <img align="left" alt="Felipe's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" />
+  </a>
+</p>
