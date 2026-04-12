@@ -15,7 +15,7 @@
   </a>
 </p>
 <p>
-  <a href="https://instagram.com/">
+  <a href="https://instagram.com/adaktil">
     <img align="left" alt="Instagram" width="22px" 
     src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" />
   </a>
